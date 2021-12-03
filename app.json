@@ -7,7 +7,7 @@
         "telethon",
         "telegram-bot"
     ],
-    "repository": "https://github.com/Akshat7678/Force2Subscribe",
+    "repository": "https://github.com/ThePro-CoderZ/Force2Sub",
     "website": "",
     "success_url": "https://t.me/TheArjvps",
     "env": {
